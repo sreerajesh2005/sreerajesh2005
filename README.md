@@ -7,8 +7,9 @@ adaptable and dedicated to utilizing the best of my skills for quality outcomes.
 ### Hi there 👋, my name is Sree Rajesh J
 #### I am Student from India
 ![I am Student from India]
-<img src="1920x1080 Pue Black Wallpaper Cave Pure 4k Download We Hope You Enjoy"/> (https://github.com/user-attachments/assets/ded6eb8b-e60d-418d-b543-d0d558d851e2)
-)
+<img src="![1920x1080 Pue Black Wallpaper Cave Pure 4k Download We Hope You Enjoy](https://github.com/user-attachments/assets/906bfbf3-b72b-4d22-ab76-b34766486f17)
+"/>
+
 
 BSc Computer Science student (Bharathiar University), aspiring AWS engineer and CLOUD  skilled in Python, HTML,CSS,JAVA SCRIPT ,React ,Java, Cloud (OCI, AWS), and open-source contributor, currently interning at Cognifyz Technologies and exploring full-stack development and generative AI projects.
 
