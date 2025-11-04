@@ -15,9 +15,9 @@ I'm a **Full Stack Developer** currently mastering the **MERN Stack** and modern
 
 ## 💼 My Projects
 
-- **[Project Name]** - Full stack web application built with MERN stack
-- **[Project Name]** - Responsive React application with modern UI/UX
-- **[Project Name]** - REST API service with Node.js and Express
+- **[Mentor Mate]** - Full stack web application built with MERN stack
+- **[swipe memes app]** - Responsive React application with modern UI/UX
+- **[message secket]** - REST API service with Node.js and Express
 
 ---
 
